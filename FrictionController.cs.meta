@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 0d2b64303ec88be4d98818f7afecfb1e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - frictionMaterial: {fileID: 13400000, guid: b2aff82d802648344a79df139ff11a27, type: 2}
+  - dynamicFrictionInput: {instanceID: 0}
+  - staticFrictionInput: {instanceID: 0}
+  - cubeFrictionMaterial: {fileID: 13400000, guid: 01e9aae3b90f4504b8e50abc516af39a,
+      type: 2}
+  - planeFrictionMaterial: {fileID: 13400000, guid: b2aff82d802648344a79df139ff11a27,
+      type: 2}
+  - boxPrefab: {fileID: 3402130983186530235, guid: 377b40357ea9b8b48a97193d08713276,
+      type: 3}
+  - cubeDynamicFrictionInput: {instanceID: 0}
+  - cubeStaticFrictionInput: {instanceID: 0}
+  - planeDynamicFrictionInput: {instanceID: 0}
+  - planeStaticFrictionInput: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
